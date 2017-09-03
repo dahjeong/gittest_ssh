@@ -1,7 +1,7 @@
-numpy
-scipy
-scikit-learn
-pandas
-seaborn
-matplotlib
-tensorflow
+1. numpy
+2. scipy
+3. scikit-learn
+4. pandas
+5. seaborn
+6. matplotlib
+7. tensorflow
